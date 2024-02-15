@@ -5,3 +5,6 @@ me have fun.\
 you contact me:
 * Telegram @scroogemcfawk
 * Email scroogemcfawk@gmail.com
+
+me resume: 
+[resume.pdf](resume.pdf)
