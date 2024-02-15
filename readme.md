@@ -7,4 +7,4 @@ you contact me:
 * Email scroogemcfawk@gmail.com
 
 me resume: 
-[resume.pdf](resume.pdf)
+[resume](resume.pdf) [RU]
