@@ -6,5 +6,3 @@ you contact me:
 * Telegram @scroogemcfawk
 * Email scroogemcfawk@gmail.com
 
-me resume: 
-[resume](resume.pdf) [RU]
