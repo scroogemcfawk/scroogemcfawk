@@ -4,5 +4,5 @@ me have fun\
 \
 you contact me:
 * telegram - [@scroogemcfawk](https://t.me/scroogemcfawk)
-* email - [scroogemcfawk@gmail.com](mailto://scroogemcfawk@gmail.com)
+* email - [scroogemcfawk@gmail.com](mailto:scroogemcfawk@gmail.com)
 
